@@ -1,0 +1,20 @@
+package com.example.spring.circular.dependency.service.solution.lazyloading;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
+
+@Component
+public class Order{
+
+    //@Autowired  // comments out as part of second approch
+    private User user;
+
+    Order() {
+        System.out.println("Order Bean getting initilized ... " + Order.class.getPackageName());
+    }
+
+    // added as part of second approch
+    public void setOrder(User user){
+        this.user=user;
+    }
+}
