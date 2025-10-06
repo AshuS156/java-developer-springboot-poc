@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="53d28c16-60a1-4796-9ed6-889b22be1a08" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../jpa-poc/Spring-boot-with-jpa/Spring-boot-with-jpa/src/main/java/com/pathfinder/jpa/Spring_boot_with_jpa/SpringJdbcCommandLineRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jpa-poc/Spring-boot-with-jpa/Spring-boot-with-jpa/src/main/java/com/pathfinder/jpa/Spring_boot_with_jpa/beans/Course.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jpa-poc/Spring-boot-with-jpa/Spring-boot-with-jpa/src/main/java/com/pathfinder/jpa/Spring_boot_with_jpa/repository/JPARepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jpa-poc/Spring-boot-with-jpa/Spring-boot-with-jpa/src/main/java/com/pathfinder/jpa/Spring_boot_with_jpa/repository/SpringDataJpa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jpa-poc/Spring-boot-with-jpa/Spring-boot-with-jpa/src/main/java/com/pathfinder/jpa/Spring_boot_with_jpa/repository/SpringJdbcRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jpa-poc/springboot_jpa_repository_handson_poc/springboot_jpa_repository_handson_poc/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jpa-poc/springboot_jpa_repository_handson_poc/springboot_jpa_repository_handson_poc/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jpa-poc/springboot_jpa_repository_handson_poc/springboot_jpa_repository_handson_poc/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jpa-poc/springboot_jpa_repository_handson_poc/springboot_jpa_repository_handson_poc/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jpa-poc/springboot_jpa_repository_handson_poc/springboot_jpa_repository_handson_poc/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jpa-poc/springboot_jpa_repository_handson_poc/springboot_jpa_repository_handson_poc/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jpa-poc/springboot_jpa_repository_handson_poc/springboot_jpa_repository_handson_poc/src/main/java/com/pathfinder/jpa/SpringbootJpaRepositoryHandsonPocApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jpa-poc/springboot_jpa_repository_handson_poc/springboot_jpa_repository_handson_poc/src/main/java/com/pathfinder/jpa/bean/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jpa-poc/springboot_jpa_repository_handson_poc/springboot_jpa_repository_handson_poc/src/main/java/com/pathfinder/jpa/controller/PersonController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jpa-poc/springboot_jpa_repository_handson_poc/springboot_jpa_repository_handson_poc/src/main/java/com/pathfinder/jpa/repository/PaginationAndSortingRepo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jpa-poc/springboot_jpa_repository_handson_poc/springboot_jpa_repository_handson_poc/src/main/java/com/pathfinder/jpa/repository/PersonRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jpa-poc/springboot_jpa_repository_handson_poc/springboot_jpa_repository_handson_poc/src/main/java/com/pathfinder/jpa/service/PersonService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jpa-poc/springboot_jpa_repository_handson_poc/springboot_jpa_repository_handson_poc/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jpa-poc/springboot_jpa_repository_handson_poc/springboot_jpa_repository_handson_poc/src/test/java/com/pathfinder/jpa/SpringbootJpaRepositoryHandsonPocApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="33eCSXv9Mkv8rTofUn2WCAis5j3" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/pathfinder/java-developer-springboot-poc/aop-poc-before-advise/aop-poc-before-advise&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\pathfinder\java-developer-springboot-poc\aop-poc-before-advise\aop-poc-before-advise" />
+      <recent name="E:\pathfinder\java-developer-springboot-poc\aop-poc-before-advise\aop-poc-before-advise\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="AopPocBeforeAdviseApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pathfinder.aop.AopPocBeforeAdviseApplication" />
+      <module name="aop-poc-before-advise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pathfinder.aop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AopPocBeforeAdviseApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53d28c16-60a1-4796-9ed6-889b22be1a08" name="Changes" comment="" />
+      <created>1759668151995</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759668151995</updated>
+    </task>
+    <servers />
+  </component>
+</project>

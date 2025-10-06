@@ -1,0 +1,40 @@
+[
+
+{
+    "id": "98-465-4100",
+    "name": "Gerardo",
+    "email": "gjoronoo@artisteer.com",
+    "status": "TRUE",
+
+  },
+  {
+    "id": "20-553-1486",
+    "name": "Lynnea",    
+    "email": "lhardwidgeop@domainmarket.com",
+    "status": "FALSE"
+  },
+  {
+    "employeeId": "51-957-7048",
+    "firstName": "Ira",
+    "email": "isladeoq@topsy.com",
+    "status": "FALSE"
+  },
+  {
+    "employeeId": "09-247-3388",
+    "firstName": "Ferdinanda",
+    "email": "fstaintonor@tumblr.com",
+    "status": "TRUE"
+  },
+   {
+    "employeeId": "17-376-4545",
+    "lastName": "Jakov",
+    "email": "ejakovos@usa.gov",
+    "newJoiner": "TRUE"
+  },
+  {
+    "employeeId": "01-650-8309",
+    "firstName": "Annetta",
+    "email": "atruseot@examiner.com",
+    "newJoiner": "TRUE"
+  }
+]
